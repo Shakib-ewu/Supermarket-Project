@@ -1357,7 +1357,7 @@ if(paid<total)
     printf("\n You have to Pay %d Taka more!!\n\n", change);
 }
 
-printf("\n\n\n\n\n\n\t==================THANKS FOR STAYING WITH US===================\t\n");
+printf("THANKS");
 getch();
 
 }
